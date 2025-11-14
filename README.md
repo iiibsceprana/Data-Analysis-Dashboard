@@ -1,4 +1,4 @@
-# Marketplace Revenue Intelligence Dashboard (Interactive Dashboard creation using MS Excel)
+![Sales Dashboard](https://github.com/user-attachments/assets/2d0eeda6-4e10-49c4-8d6d-020f690aba42)# Marketplace Revenue Intelligence Dashboard (Interactive Dashboard creation using MS Excel)
 ## Project Objective
 The goal of this project is to create an annual sales report for 2024 so that marketplace managers can understand overall product performance, customer behavior, and sales trends, and use these insights to grow revenue in 2025.
 ## Dataset used
@@ -35,7 +35,7 @@ Percentage of Total Orders Delivered
 
 ## Dashboard
 
-![Screenshot (495)](https://github.com/user-attachments/assets/17a62479-5cdc-4be7-9373-f264201d276e)
+![Screenshot (495)](![Sales Dashboard](https://github.com/user-attachments/assets/0f850944-801a-4c95-ac26-dc470d29c99b))
 
 ## Project Insight
 Laptop and Mobile categories contributed the highest portion of the total revenue.
