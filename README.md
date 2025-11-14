@@ -25,7 +25,7 @@ What are the monthly sales trends?
 
 Percentage of Total Orders Delivered
 
-- Dashboard Interaction <a href="https://github.com/ritikbh193/Data-Analytics-with-Excel/blob/main/Dashboard_Image.png">View Dashboard</a>
+- Dashboard Interaction <a href="https://github.com/iiibsceprana/Data-Analysis-Dashboard/blob/main/Sales%20Dashboard.jpg">View Dashboard</a>
 
 ## Process
 - Verify data for any missing values and anomalies, and sort out the same.
